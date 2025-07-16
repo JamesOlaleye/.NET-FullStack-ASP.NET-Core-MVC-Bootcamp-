@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWord2": {
+      "commandName": "Project",
+      "commandLineArgs": "James"
+    }
+  }
+}
