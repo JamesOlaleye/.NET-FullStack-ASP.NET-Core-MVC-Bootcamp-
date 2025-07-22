@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStack", "GenericStac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericQueue", "GenericQueue\GenericQueue.csproj", "{BFA84223-887A-136A-D6F9-2D31E78F9FB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethods", "ExtentionMethods\ExtentionMethods.csproj", "{504F2C6F-4CC7-4A6A-BA98-B07B5EAFE682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypes", "GenericTypes\GenericTypes.csproj", "{9585ADA9-17CE-840C-E316-8AD8FE7E74BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +54,14 @@ Global
 		{BFA84223-887A-136A-D6F9-2D31E78F9FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA84223-887A-136A-D6F9-2D31E78F9FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA84223-887A-136A-D6F9-2D31E78F9FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504F2C6F-4CC7-4A6A-BA98-B07B5EAFE682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504F2C6F-4CC7-4A6A-BA98-B07B5EAFE682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504F2C6F-4CC7-4A6A-BA98-B07B5EAFE682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504F2C6F-4CC7-4A6A-BA98-B07B5EAFE682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9585ADA9-17CE-840C-E316-8AD8FE7E74BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9585ADA9-17CE-840C-E316-8AD8FE7E74BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9585ADA9-17CE-840C-E316-8AD8FE7E74BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9585ADA9-17CE-840C-E316-8AD8FE7E74BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
