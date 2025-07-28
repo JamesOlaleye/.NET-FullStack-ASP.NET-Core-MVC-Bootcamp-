@@ -1,0 +1,20 @@
+﻿@page
+@model RazorPortfolio.Pages.AboutModel
+@{ 
+}
+
+<div class="text-center">
+   <h1>James Olanipekun</h1>
+
+   <p>Software Engineer, Backend Developer, Frontend Developer, Tech Instructor</p>
+   <p>
+       <a href="www.facebook.com" target="_blank">Website</a>
+       <a href="www.youtube.com" target="_blank">Youtube</a>
+   </p>
+   <div>Programming Languages: 
+        @foreach (var language in Model.ProgrammingLanguages)
+        {
+            <div>@language</div>
+        }
+    </div>
+</div>
